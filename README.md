@@ -11,18 +11,18 @@ Proyek Flutter ini adalah sebuah Petualangan Antariksa berbasis interaktif yang 
 1. **Title Page**  
    Halaman pembuka dengan judul cerita dan tombol mulai.
 
-   ![Title Page](Prak%204/web1.jpg)
+   ![Title Page](images/web1.jpg)
 
 2. **Scene Page**  
    Halaman interaktif dengan astronaut, peti, dan kunci yang bisa didrag.
 
-   ![Scene Page](Prak%204/web2.jpg)
-   ![Scene Page](Prak%204/web3.jpg)
+   ![Scene Page](images/web2.jpg)
+   ![Scene Page](images/web3.jpg)
 
 3. **End Page**  
    Halaman akhir yang menampilkan pesan petualangan selesai dan tombol mulai ulang.
 
-   ![End Page](Prak%204/web4.jpg)
+   ![End Page](images/web4.jpg)
 
 
 # Penjelasan Program:
